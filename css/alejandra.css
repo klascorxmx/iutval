@@ -16,6 +16,9 @@ margin: auto;
 	/*filtro para internet explore*/
 	filter: progid:DXImageTransform.Microsoft.Gradient(startColorstr='#333333 0%', endColorstr=' #1F2576 100%');
 }
+mark {
+	font-size: 20px;
+}
 strong {
 font-weight: 600;
 }
@@ -25,7 +28,7 @@ height: 1px;
 background-color: rgba(51, 153, 204, 0.2);
 }
 .img-placeholder {
-background-image: url("https://media.v2.siweb.es/uploaded_thumb_medium/06f88b2b9f818627a03396dd4dc94f75/alternador-3-copia_2.png");
+background-image: url("../img/alternador.png");
 background-size: cover;
 min-height: 300px;
 min-width: 150px;
